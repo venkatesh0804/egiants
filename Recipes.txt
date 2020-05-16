@@ -6,3 +6,5 @@ curd
 rice
 chiken curryy
 goat
+beans
+pizza
